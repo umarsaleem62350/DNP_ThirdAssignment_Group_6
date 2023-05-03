@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorUI
+build_property.RootNamespace = BlazorUI
+build_property.ProjectDir = C:\Users\Bruger\RiderProjects\DNP1-Assignment3-Group6\DNP1-Assignment3\BlazorUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Bruger\RiderProjects\DNP1-Assignment3-Group6\DNP1-Assignment3\BlazorUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/CreateForum.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cQ3JlYXRlRm9ydW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-77eie43cx2
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/Forums.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cRm9ydW1zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1pmr40vdlc
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/SubForums/CreateSubForums.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cU3ViRm9ydW1zXENyZWF0ZVN1YkZvcnVtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-1khyo0e2ef
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/SubForums/Posts/AllPosts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cU3ViRm9ydW1zXFBvc3RzXEFsbFBvc3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-aby8fb0kek
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/SubForums/Posts/CreatePost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cU3ViRm9ydW1zXFBvc3RzXENyZWF0ZVBvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lk92yk1ep3
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/SubForums/Posts/ViewPost/ViewPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cU3ViRm9ydW1zXFBvc3RzXFZpZXdQb3N0XFZpZXdQb3N0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-9l94p9wxqz
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Forum/SubForums/SubForums.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ydW1cU3ViRm9ydW1zXFN1YkZvcnVtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xggczduum5
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/UIElements/LoginButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlFbGVtZW50c1xMb2dpbkJ1dHRvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mwrmd3tkya
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/UIElements/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlFbGVtZW50c1xNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-y6l1j2v8r0
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/UIElements/NotLoggedIn.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlFbGVtZW50c1xOb3RMb2dnZWRJbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c851v547p7
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/User/CreateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxDcmVhdGVVc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-9ns6fcdr3y
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/User/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-se24kx68pl
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9locippnay
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-im1vr98q65
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruger/RiderProjects/DNP1-Assignment3-Group6/DNP1-Assignment3/BlazorUI/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

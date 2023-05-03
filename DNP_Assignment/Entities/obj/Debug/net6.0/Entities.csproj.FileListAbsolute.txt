@@ -1,0 +1,24 @@
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\bin\Debug\net6.0\Entities.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\bin\Debug\net6.0\ref\Entities.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\bin\Debug\net6.0\Entities.pdb
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\Entities\obj\Debug\net6.0\ref\Entities.dll
